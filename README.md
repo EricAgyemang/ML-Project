@@ -1,6 +1,6 @@
 # Maching Learning Project (ML)
-# Logistic Regression Classifier Implementation with Python
-
+# 1. Logistic Regression Classifier Implementation with Python
+# 2. ML-Based Customer Policy Renewal Through the Phone call
 
 # 1. Introduction to Logistic Regression
 When data scientists may come across a new classification problem, the first algorithm that may come across their mind is Logistic Regression. It is a supervised 
